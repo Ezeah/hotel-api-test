@@ -1,1 +1,1 @@
-# hotel-api-test
+# hotel_management_api
